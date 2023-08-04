@@ -64,3 +64,12 @@ body {
     transform: translateY(0);
     opacity: 1;
   }
+
+  .btngradient{
+    background: transparent;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    padding: 4px;
+    color: white;
+  }
